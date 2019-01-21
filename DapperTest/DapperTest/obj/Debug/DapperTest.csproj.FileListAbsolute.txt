@@ -1,0 +1,10 @@
+C:\Users\ТажибекА\source\repos\DapperTest\DapperTest\obj\Debug\DapperTest.csprojAssemblyReference.cache
+C:\Users\ТажибекА\source\repos\DapperTest\DapperTest\obj\Debug\DapperTest.csproj.CoreCompileInputs.cache
+C:\Users\ТажибекА\source\repos\DapperTest\DapperTest\bin\Debug\DapperTest.exe.config
+C:\Users\ТажибекА\source\repos\DapperTest\DapperTest\bin\Debug\DapperTest.exe
+C:\Users\ТажибекА\source\repos\DapperTest\DapperTest\bin\Debug\DapperTest.pdb
+C:\Users\ТажибекА\source\repos\DapperTest\DapperTest\bin\Debug\Dapper.dll
+C:\Users\ТажибекА\source\repos\DapperTest\DapperTest\bin\Debug\Dapper.xml
+C:\Users\ТажибекА\source\repos\DapperTest\DapperTest\obj\Debug\DapperTest.csproj.CopyComplete
+C:\Users\ТажибекА\source\repos\DapperTest\DapperTest\obj\Debug\DapperTest.exe
+C:\Users\ТажибекА\source\repos\DapperTest\DapperTest\obj\Debug\DapperTest.pdb
